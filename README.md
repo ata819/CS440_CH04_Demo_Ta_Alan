@@ -1,3 +1,6 @@
 # CS440_CH04_Demo_Ta_Alan
 
 For CS 440 test My Justification here
+
+So for my license I chose the MIT License. I chose this license because for the programs I plan to create, I don't see any 
+reason to not allow people to use or copy it. I don't plan on creating anything remarkable or somethinh that hasnt already been created, to an extent. With this license I give anyone the right to perform, display, copy, and modify my code. I can understand that there are licenses out there that could protect my work or could be used for my benfit. but I just don't see a real reason to do that. I don't plan to create any revolutionary work. I code for assignments, which are typically fundamentals of CS, thus the code isnt particularly unique, i.e. Linked List, Binary Heaps. I also plan to code for fun. And as funny as it is, the code won't be anything special unless I deem it to be. I can understandthe use of other licenses, but until I need it, I'll stick to the MIT license. With this license, I allow anyone to use my code as long as I get attributions and aren't held liable for what they do. I also chose this license becasue it gives me the protection I need against liablility and protects my creative work. In all, a license is to protect the inventor/creator. I believe everyone should use a license but it is up to their discretion on what type.  
