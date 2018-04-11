@@ -1,5 +1,4 @@
 # CS440_CH04_Demo_Ta_Alan
-
 For CS 440 test My Justification here
 
 So for my license I chose the MIT License. I chose this license because for the programs I plan to create, I don't see any 
